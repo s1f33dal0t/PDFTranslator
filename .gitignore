@@ -1,0 +1,8 @@
+.env
+encryption.py
+setup.py
+key.txt
+config.py
+env/
+build/
+__pycache__/
