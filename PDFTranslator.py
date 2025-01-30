@@ -176,7 +176,7 @@ browse_button.pack(side="left")
 # Language selection
 available_languages = ["", "EN-US", "PL", "SK", "SL",  "ET", "LT", "DE", "FI", "LV", "RO", "RU", "TR", "UK"]
 tk.Label(root, text="Target Language:").pack()
-lang_var = tk.StringVar(value="EN")  # Default Language
+lang_var = tk.StringVar(value="EN-US")  # Default Language
 lang_menu = ttk.OptionMenu(root, lang_var, *available_languages)
 lang_menu.pack(pady=5)
 
