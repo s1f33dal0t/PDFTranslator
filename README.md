@@ -26,18 +26,18 @@ api_key = "your-api-key-here"
 
 Takes in a PDF File
 
-![alt text](PDF_Tr1.png)
+![Image](https://github.com/user-attachments/assets/e6e121a6-5b7d-4462-a0d4-aff365a10fe6)
 
-![alt text](PDF_Tr2.png)
+![Image](https://github.com/user-attachments/assets/0a25397c-0e16-4286-a778-28651ebd0779)
 
 Choose a language
 
-![alt text](PDF_Tr3.png)
+![Image](https://github.com/user-attachments/assets/51ff7b46-65c5-450d-b2d6-edc5d6c55a69)
 
 Translate
 
-![alt text](PDF_Tr4.png)
+![Image](https://github.com/user-attachments/assets/e451da54-c639-4060-8385-00cd2178a97b)
 
 And you have a translated version of the document!
 
-![alt text](PDF_Tr5.png)
+![Image](https://github.com/user-attachments/assets/ee89b196-a9ed-442e-9221-8e8e64fd97a0)
